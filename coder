@@ -1,0 +1,7 @@
+github  ( vs code )
+git inti
+git add .
+git commit -m 'frist project'
+git branch -M main
+git remote add origin https://github.com/Ch4Rmn/TestinAoasdsad.git
+git push -u origin main
